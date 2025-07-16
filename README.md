@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 💡 Spotlight Projects
+## 💡 Projects
 
 ✨ **ESG Data Management System** @ PetroEnergy  
 `Full-stack system from data modeling to deployment. Sleek UI, robust docs, and happy users.`
@@ -42,7 +42,7 @@
 
 ---
 
-## 🏅 Certified & Credible
+## 🏅 Certifications
 
 - 📊 Data Analytics with Python — *IBM*
 - 🤖 Generative AI: Prompt Engineering — *IBM*
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌱 Community & Leadership
+## 🌱 Organizations
 
 - 🏛️ Supreme Student Council (SSC)
 - 🧑‍🎓 CCIS Student Council
