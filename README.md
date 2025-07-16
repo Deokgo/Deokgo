@@ -1,72 +1,80 @@
-## 👨‍💻 About Me
-
-- 🎓 **B.S. Computer Science** | Malayan Colleges Laguna (2021 - 2025)
-- 💼 **Full-Stack Software Developer Intern** @ PetroEnergy IT Department (Apr - Jul 2025)
-- 🧑‍🔬 Data Science & Machine Learning Practitioner
-- 🌏 Based in San Pedro, Laguna, Philippines
+**Welcome to my corner of GitHub, where code meets creativity and data tells a story.**
 
 ---
 
-## 🚀 Technical Skills
+## 🧑‍🚀 Who Am I?
 
-- **Languages/Frameworks:** React JS, Flask, Dash
-- **Data Science:** Pandas, NumPy, SciPy, Scikit-learn
-- **Other:** Agile Project Management, Prompt Engineering, ChatGPT, Data Visualization
-- **Soft Skills:** Problem Solving, Strategic Thinking, Communication
-
----
-
-## 🌟 Projects & Highlights
-
-- **ESG Data Management System** (PetroEnergy)  
-  Developed a full-stack system for ESG data management, from data modeling to deployment, including UI/UX and system documentation.
-
-- **Personal Portfolio Website**  
-  Built with React and Material-UI, showcasing my projects, skills, and experience.
-
-- **Web-based Institutional Research Repository**  
-  Thesis project featuring advanced data analytics dashboard and search capabilities for research data.
-
-- **Procurement & Inventory Management Application**  
-  Designed a user interface for facilitating daily company operations.
-
-- **OJT Dashboard Web App**  
-  Interactive dashboard for data analysis and visualization with multi-chart export capabilities.
+- 🎓 **B.S. Computer Science** | Malayan Colleges Laguna (`2021 - 2025`)
+- 💻 **Software Developer Intern** @ PetroEnergy IT Department (`Apr - Jul 2025`)
+- 🔬 **Avid Data Scientist & Machine Learning Explorer**
+- 🌏 **Home Base:** San Pedro, Laguna, Philippines
 
 ---
 
-## 📜 Certifications
+## 🛠️ Tech Toolbox
 
-- **Data Analytics with Python** – IBM
-- **Generative AI: Prompt Engineering** – IBM
-- **Introduction to Front-End Development** – Meta
-- **Agile Project Management** – Google
-- **CompTIA IT Fundamentals (ITF+)**
+<div align="center">
 
----
+| **Languages / Frameworks** | **Data Science**            | **Other Tools**              | **Soft Skills**             |
+|----------------------------|-----------------------------|------------------------------|-----------------------------|
+| React JS, Flask, Dash      | Pandas, NumPy, SciPy, SKLearn| Agile, Prompt Engineering, ChatGPT, Data Viz | Problem Solving, Strategy, Communication |
 
-## 🤝 Organizations
-
-- Supreme Student Council (SSC)
-- CCIS Student Council
-- JPCS Student Chapter
-- Junior ACM Student Chapter
+</div>
 
 ---
 
-## 📫 Contact
+## 💡 Spotlight Projects
 
-- **Email:** cometakanejustine@gmail.com
-- **LinkedIn:** [kane-justine-cometa](https://www.linkedin.com/in/kane-justine-cometa)
+✨ **ESG Data Management System** @ PetroEnergy  
+`Full-stack system from data modeling to deployment. Sleek UI, robust docs, and happy users.`
+
+✨ **Portfolio Website**  
+`React + Material-UI showcase of skills, projects, and professional vibes.`
+
+✨ **Institutional Research Repository**  
+`Thesis project: Advanced dashboard, powerful search, beautiful data.`
+
+✨ **Procurement & Inventory App**  
+`Streamlined UI for business operations. Making work a little bit easier.`
+
+✨ **OJT Dashboard Web App**  
+`Data analysis, visualization, and multi-chart exporting – all in one.`
 
 ---
 
-## 🎯 Fun Facts & Interests
+## 🏅 Certified & Credible
 
-- Always eager to learn and contribute to cutting-edge, data-driven tech solutions.
-- Enjoys collaborating on projects, problem-solving, and strategic planning.
-- Active in student leadership and tech organizations.
+- 📊 Data Analytics with Python — *IBM*
+- 🤖 Generative AI: Prompt Engineering — *IBM*
+- 🎨 Introduction to Front-End Development — *Meta*
+- 🏃 Agile Project Management — *Google*
+- 💾 CompTIA IT Fundamentals (ITF+)
 
 ---
 
-> *Let's connect and build something amazing together!*
+## 🌱 Community & Leadership
+
+- 🏛️ Supreme Student Council (SSC)
+- 🧑‍🎓 CCIS Student Council
+- 💡 JPCS Student Chapter
+- 👾 Junior ACM Student Chapter
+
+---
+
+## 📩 Let's Connect
+
+- 📧 **Email:** [cometakanejustine@gmail.com](mailto:cometakanejustine@gmail.com)
+- 💼 **LinkedIn:** [kane-justine-cometa](https://www.linkedin.com/in/kane-justine-cometa)
+
+---
+
+## 🎲 Fun Facts & Interests
+
+- 🚀 Forever curious about data-driven tech and AI
+- 🤝 Loves collaborative problem-solving and strategic thinking
+- 🎤 Active in student leadership & tech orgs
+- 🧩 Believes in code as art, and in teamwork as superpower
+
+---
+
+> *"Let's connect, create, and make something extraordinary together!"*
