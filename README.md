@@ -1,7 +1,3 @@
-Welcome to my GitHub profile! I am a passionate **Full-Stack Software Developer** and **Data Science Enthusiast** with hands-on experience in building modern web, mobile, and software applications, as well as leveraging data analytics and machine learning for impactful solutions.
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **B.S. Computer Science** | Malayan Colleges Laguna (2021 - 2025)
