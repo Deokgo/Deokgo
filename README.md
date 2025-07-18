@@ -2,15 +2,6 @@
 
 ---
 
-## 🧑‍🚀 Who Am I?
-
-- 🎓 **B.S. Computer Science** | Malayan Colleges Laguna (`2021 - 2025`)
-- 💻 **Software Developer Intern** @ PetroEnergy IT Department (`Apr - Jul 2025`)
-- 🔬 **Avid Data Scientist & Machine Learning Explorer**
-- 🌏 **Home Base:** San Pedro, Laguna, Philippines
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
