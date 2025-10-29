@@ -8,7 +8,7 @@
 
 | **Languages / Frameworks** | **Data Science**            | **Other Tools**              | **Soft Skills**             |
 |----------------------------|-----------------------------|------------------------------|-----------------------------|
-| React JS, Flask, Dash      | Pandas, NumPy, SciPy, SKLearn| Agile, Prompt Engineering, ChatGPT, Data Viz | Problem Solving, Strategy, Communication |
+| Python - FastAPI, Flask , Javascript - React JS, Node.JS    | Pandas, NumPy, SciPy, SKLearn| Agile, Prompt Engineering, ChatGPT, Data Viz | Problem Solving, Strategy, Communication |
 
 </div>
 
