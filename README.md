@@ -43,15 +43,6 @@
 
 ---
 
-## 🌱 Organizations
-
-- 🏛️ Supreme Student Council (SSC)
-- 🧑‍🎓 CCIS Student Council
-- 💡 JPCS Student Chapter
-- 👾 Junior ACM Student Chapter
-
----
-
 ## 📩 Let's Connect
 
 - 📧 **Email:** [cometakanejustine@gmail.com](mailto:cometakanejustine@gmail.com)
